@@ -1,5 +1,5 @@
 # snake_n_crab
-A simple snake  game. Eat the coconuts and you get a speed boost eat the crab and you will slow down.
+A simple snake game. Eat the coconuts and you get a speed boost eat the crab and you slow down.
 
 This was my first Java project for the "Programming 1" course of my studies.
 
